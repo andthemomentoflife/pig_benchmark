@@ -1,0 +1,32 @@
+{
+    "domain": "Web Framework",
+    "url": "https://github.com/cqmoe/python-cqhttp/commit/f9f083ec",
+    "bef_file": "9b.py",
+    "aft_file": "9a.py",
+    "libo": "bottle",
+    "libn": "flask",
+    "apio": [
+        "Bottle",
+        "post",
+        "abort",
+        "get",
+        "read",
+        "run",
+        "headers"
+    ],
+    "apin": [
+        "Flask",
+        "route",
+        "get_data",
+        "get",
+        "get"
+    ],
+    "api_imports": [
+        "flask.Flask",
+        "flask.request",
+        "flask.abort",
+        "flask.jsonify"
+    ],
+    "filepath": "cqhttp/__init__.py",
+    "yaml": "bottle__flask__cqmoe@python-cqhttp__f9f083ec.yaml"
+}

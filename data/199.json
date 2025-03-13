@@ -1,0 +1,27 @@
+{
+    "domain": "Database",
+    "url": "https://github.com/walletconnect/py-walletconnect-bridge/commit/c2d3db2a",
+    "bef_file": "199b.py",
+    "aft_file": "199a.py",
+    "libo": "redis",
+    "libn": "aioredis",
+    "apio": [
+        "StrictRedis",
+        "set",
+        "get",
+        "delete"
+    ],
+    "apin": [
+        "create_redis",
+        "set",
+        "get",
+        "get",
+        "delete",
+        "delete"
+    ],
+    "api_imports": [
+        "aioredis"
+    ],
+    "filepath": "balance_bridge/keystore.py",
+    "yaml": "redis__aioredis__walletconnect@py-walletconnect-bridge__c2d3db2a.yaml"
+}

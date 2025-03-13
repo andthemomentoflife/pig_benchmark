@@ -1,0 +1,24 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/jorgecarleitao/public-contracts/commit/70a229cb",
+    "bef_file": "280b.py",
+    "aft_file": "280a.py",
+    "libo": "mechanize",
+    "libn": "requests",
+    "apio": [
+        "Browser",
+        "set_handle_robots",
+        "addheaders",
+        "open",
+        "read"
+    ],
+    "apin": [
+        "get",
+        "text"
+    ],
+    "api_imports": [
+        "mechanize"
+    ],
+    "filepath": "contracts/crawler.py",
+    "yaml": "mechanize__requests__jorgecarleitao@public-contracts__70a229cb.yaml"
+}

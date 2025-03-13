@@ -1,0 +1,34 @@
+{
+    "domain": "Crypto",
+    "url": "https://github.com/yubico/python-u2flib-server/commit/65c46657",
+    "bef_file": "304b.py",
+    "aft_file": "304a.py",
+    "libo": "m2crypto",
+    "libn": "cryptography",
+    "apio": [
+        "load_cert_der_string",
+        "get_subject",
+        "as_text",
+        "get_issuer",
+        "get_pubkey"
+    ],
+    "apin": [
+        "load_pem_x509_certificate",
+        "subject",
+        "get_attributes_for_oid",
+        "value",
+        "get_attributes_for_oid",
+        "value",
+        "issuer",
+        "public_key"
+    ],
+    "api_imports": [
+        "cryptography.exceptions.InvalidSignature",
+        "cryptography.hazmat.backends.default_backend",
+        "cryptography.hazmat.primitives.asymmetric.padding",
+        "cryptography.x509.oid.NameOID",
+        "cryptography.x509"
+    ],
+    "filepath": "u2flib_server/attestation/resolvers.py",
+    "yaml": "m2crypto__cryptography__yubico@python-u2flib-server__65c46657.yaml"
+}

@@ -1,0 +1,22 @@
+{
+    "domain": "Filesystem",
+    "url": "https://github.com/ctlearn-project/ctlearn/commit/2375af87",
+    "bef_file": "176b.py",
+    "aft_file": "176a.py",
+    "libo": "configparser",
+    "libn": "configobj",
+    "apio": [
+        "ConfigParser",
+        "read"
+    ],
+    "apin": [
+        "ConfigObj",
+        "ConfigObj"
+    ],
+    "api_imports": [
+        "configobj.ConfigObj",
+        "configobj.validate.Validator"
+    ],
+    "filepath": "ctalearn/scripts/run_model.py",
+    "yaml": "configparser__configobj__ctlearn-project@ctlearn__2375af87.yaml"
+}

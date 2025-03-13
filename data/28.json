@@ -1,0 +1,40 @@
+{
+    "domain": "Development framework/extension",
+    "url": "https://github.com/synesthesiam/voice2json/commit/7ea7ddb8",
+    "bef_file": "28b.py",
+    "aft_file": "28a.py",
+    "libo": "flask",
+    "libn": "quart",
+    "apio": [
+        "Flask",
+        "route",
+        "method",
+        "secret_key",
+        "form",
+        "files",
+        "flash",
+        "render_template",
+        "send_from_directory",
+        "send_file",
+        "run"
+    ],
+    "apin": [
+        "flash",
+        "flash",
+        "flash",
+        "flash",
+        "render_template",
+        "render_template",
+        "render_template",
+        "Quart",
+        "form",
+        "form",
+        "form",
+        "files"
+    ],
+    "api_imports": [
+        "quart.Quart"
+    ],
+    "filepath": "web/app.py",
+    "yaml": "flask__quart__synesthesiam@voice2json__7ea7ddb8.yaml"
+}

@@ -1,0 +1,24 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/openstack/wsme/commit/002473c0",
+    "bef_file": "283b.py",
+    "aft_file": "283a.py",
+    "libo": "ipaddr",
+    "libn": "netaddr",
+    "apio": [
+        "IPv4Address",
+        "AddressValueError",
+        "IPv6Address"
+    ],
+    "apin": [
+        "IPAddress",
+        "AddrFormatError",
+        "AddrFormatError",
+        "IPAddress"
+    ],
+    "api_imports": [
+        "netaddr"
+    ],
+    "filepath": "wsme/types.py",
+    "yaml": "ipaddr__netaddr__openstack@wsme__002473c0.yaml"
+}

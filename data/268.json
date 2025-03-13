@@ -1,0 +1,45 @@
+{
+    "domain": "Utility",
+    "url": "https://github.com/kxr/o-must-gather/commit/9da47229",
+    "bef_file": "268b.py",
+    "aft_file": "268a.py",
+    "libo": "argparse",
+    "libn": "click",
+    "apio": [
+        "ArgumentParser",
+        "add_argument",
+        "add_subparsers",
+        "add_parser",
+        "set_defaults",
+        "parse_args"
+    ],
+    "apin": [
+        "option",
+        "option",
+        "group",
+        "command",
+        "command",
+        "command",
+        "command",
+        "command",
+        "command",
+        "command",
+        "argument",
+        "Path",
+        "option",
+        "argument",
+        "option",
+        "Choice",
+        "argument",
+        "command",
+        "argument",
+        "option",
+        "option",
+        "group"
+    ],
+    "api_imports": [
+        "click"
+    ],
+    "filepath": "omg/cli.py",
+    "yaml": "argparse__click__kxr@o-must-gather__9da47229.yaml"
+}

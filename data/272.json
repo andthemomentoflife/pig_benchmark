@@ -1,0 +1,25 @@
+{
+    "domain": "Utility",
+    "url": "https://github.com/ozencb/yts-scraper/commit/383401ae",
+    "bef_file": "272b.py",
+    "aft_file": "272a.py",
+    "libo": "progressbar",
+    "libn": "tqdm",
+    "apio": [
+        "update",
+        "wrap_stderr",
+        "flush",
+        "Timer",
+        "ETA",
+        "Bar",
+        "ProgressBar"
+    ],
+    "apin": [
+        "tqdm"
+    ],
+    "api_imports": [
+        "tqdm.tqdm"
+    ],
+    "filepath": "ytsscraper/scraper.py",
+    "yaml": "progressbar__tqdm__ozencb@yts-scraper__383401ae.yaml"
+}

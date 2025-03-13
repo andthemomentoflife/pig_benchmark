@@ -1,0 +1,27 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/itzkvn/python-http-monitoring/commit/790a4830",
+    "bef_file": "284b.py",
+    "aft_file": "284a.py",
+    "libo": "aiohttp",
+    "libn": "httpx",
+    "apio": [
+        "ClientSession",
+        "get",
+        "status",
+        "ClientConnectorError"
+    ],
+    "apin": [
+        "get",
+        "AsyncClient",
+        "status_code",
+        "ConnectError"
+    ],
+    "api_imports": [
+        "httpx",
+        "httpx.ConnectTimeout",
+        "httpx.ConnectError"
+    ],
+    "filepath": "app/targets.py",
+    "yaml": "aiohttp__httpx__itzkvn@python-http-monitoring__790a4830.yaml"
+}

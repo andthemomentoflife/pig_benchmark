@@ -1,0 +1,28 @@
+{
+    "domain": "Utility",
+    "url": "https://github.com/aiortc/aiortc/commit/270edaf4",
+    "bef_file": "238b.py",
+    "aft_file": "238a.py",
+    "libo": "attrs",
+    "libn": "dataclasses",
+    "apio": [
+        "ib",
+        "s"
+    ],
+    "apin": [
+        "dataclass",
+        "dataclass",
+        "dataclass",
+        "dataclass",
+        "dataclass",
+        "dataclass",
+        "dataclass",
+        "dataclass",
+        "dataclass"
+    ],
+    "api_imports": [
+        "dataclasses.dataclass"
+    ],
+    "filepath": "src/aiortc/stats.py",
+    "yaml": "attrs__dataclasses__aiortc@aiortc__270edaf4.yaml"
+}

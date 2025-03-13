@@ -1,0 +1,23 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/svenskaspel/locust-plugins/commit/fad53da5",
+    "bef_file": "100b.py",
+    "aft_file": "100a.py",
+    "libo": "kafka",
+    "libn": "confluent-kafka",
+    "apio": [
+        "KafkaProducer",
+        "send",
+        "add_callback",
+        "add_errback"
+    ],
+    "apin": [
+        "Producer",
+        "produce"
+    ],
+    "api_imports": [
+        "confluent_kafka.Producer"
+    ],
+    "filepath": "locust_plugins/kafka.py",
+    "yaml": "kafka__confluent-kafka__svenskaspel@locust-plugins__fad53da5.yaml"
+}

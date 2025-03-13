@@ -1,0 +1,23 @@
+{
+    "domain": "Serialization",
+    "url": "https://github.com/kushalp/serfclient-py/commit/3adbf0f1",
+    "bef_file": "225b.py",
+    "aft_file": "225a.py",
+    "libo": "msgpack",
+    "libn": "u-msgpack-python",
+    "apio": [
+        "dumps",
+        "loads"
+    ],
+    "apin": [
+        "dumps",
+        "dumps",
+        "loads",
+        "compatibility"
+    ],
+    "api_imports": [
+        "umsgpack"
+    ],
+    "filepath": "serfclient/connection.py",
+    "yaml": "msgpack__u-msgpack-python__kushalp@serfclient-py__3adbf0f1.yaml"
+}

@@ -1,0 +1,36 @@
+{
+    "domain": "Web Framework&HTTP Clients",
+    "url": "https://github.com/dahlia/sqlalchemy-imageattach/commit/7cd3ca5b",
+    "bef_file": "4b.py",
+    "aft_file": "4a.py",
+    "libo": "werkzeug",
+    "libn": "webob",
+    "apio": [
+        "Client",
+        "get",
+        "data",
+        "mimetype",
+        "status_code",
+        "content_length"
+    ],
+    "apin": [
+        "blank",
+        "get_response",
+        "blank",
+        "get_response",
+        "blank",
+        "get_response",
+        "text",
+        "body",
+        "body",
+        "body",
+        "content_type",
+        "content_type",
+        "content_type"
+    ],
+    "api_imports": [
+        "webob.Request"
+    ],
+    "filepath": "tests/stores/fs_test.py",
+    "yaml": "werkzeug__webob__dahlia@sqlalchemy-imageattach__7cd3ca5b.yaml"
+}

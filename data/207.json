@@ -1,0 +1,23 @@
+{
+    "domain": "HTML",
+    "url": "https://github.com/pycon/pycon/commit/3dba9637",
+    "bef_file": "207b.py",
+    "aft_file": "207a.py",
+    "libo": "html5lib",
+    "libn": "bleach",
+    "apio": [
+        "HTMLParser",
+        "HTMLSanitizer",
+        "parseFragment",
+        "childNodes",
+        "toxml"
+    ],
+    "apin": [
+        "clean"
+    ],
+    "api_imports": [
+        "bleach"
+    ],
+    "filepath": "symposion/markdown_parser.py",
+    "yaml": "html5lib__bleach__pycon@pycon__3dba9637.yaml"
+}

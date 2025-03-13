@@ -1,0 +1,24 @@
+{
+    "domain": "Multitasking/multiprocessing",
+    "url": "https://github.com/kizniche/mycodo/commit/547f6d9f",
+    "bef_file": "60b.py",
+    "aft_file": "60a.py",
+    "libo": "lockfile",
+    "libn": "fasteners",
+    "apio": [
+        "acquire",
+        "LockFile",
+        "i_am_locking",
+        "release",
+        "break_lock"
+    ],
+    "apin": [
+        "acquire",
+        "InterProcessLock"
+    ],
+    "api_imports": [
+        "fasteners"
+    ],
+    "filepath": "mycodo/sensors/mh_z19.py",
+    "yaml": "lockfile__fasteners__kizniche@mycodo__547f6d9f.yaml"
+}

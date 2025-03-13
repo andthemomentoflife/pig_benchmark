@@ -1,0 +1,25 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/nitmir/policyd-rate-limit/commit/c024e06a",
+    "bef_file": "125b.py",
+    "aft_file": "125a.py",
+    "libo": "netaddr",
+    "libn": "ipaddress",
+    "apio": [
+        "IPAddress",
+        "IPNetwork"
+    ],
+    "apin": [
+        "IPv4Address",
+        "IPv6Address",
+        "IPv4Network",
+        "IPv6Network",
+        "AddressValueError",
+        "AddressValueError"
+    ],
+    "api_imports": [
+        "ipaddress"
+    ],
+    "filepath": "policyd_rate_limit/utils.py",
+    "yaml": "netaddr__ipaddress__nitmir@policyd-rate-limit__c024e06a.yaml"
+}

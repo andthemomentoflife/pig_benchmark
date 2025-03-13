@@ -1,0 +1,42 @@
+{
+    "domain": "Web Framework",
+    "url": "https://github.com/arosenfeld/immunedb/commit/6141b13b",
+    "bef_file": "191b.py",
+    "aft_file": "191a.py",
+    "libo": "flask",
+    "libn": "bottle",
+    "apio": [
+        "route",
+        "Flask",
+        "config",
+        "after_request",
+        "run",
+        "Response",
+        "request",
+        "jsonify",
+        "SQLAlchemy",
+        "APIManager",
+        "loads"
+    ],
+    "apin": [
+        "route",
+        "route",
+        "route",
+        "route",
+        "route",
+        "route",
+        "route",
+        "route",
+        "route",
+        "route",
+        "route",
+        "route"
+    ],
+    "api_imports": [
+        "bottle.route",
+        "bottle.run",
+        "bottle.template"
+    ],
+    "filepath": "sldb/api/rest_service.py",
+    "yaml": "flask__bottle__arosenfeld@immunedb__6141b13b.yaml"
+}

@@ -1,0 +1,31 @@
+{
+    "domain": "Utilities",
+    "url": "https://github.com/ictu/quality-time/commit/cc47b42c",
+    "bef_file": "202b.py",
+    "aft_file": "202a.py",
+    "libo": "python-ldap",
+    "libn": "ldap3",
+    "apio": [
+        "initialize",
+        "search_s",
+        "SCOPE_SUBTREE",
+        "INVALID_CREDENTIALS",
+        "simple_bind_s",
+        "UNWILLING_TO_PERFORM",
+        "INVALID_DN_SYNTAX",
+        "SERVER_DOWN",
+        "unbind_s"
+    ],
+    "apin": [
+        "Server",
+        "search"
+    ],
+    "api_imports": [
+        "ldap3.Server",
+        "ldap3.Connection",
+        "ldap3.ALL",
+        "ldap3.core.exceptions"
+    ],
+    "filepath": "components/server/src/routes/auth.py",
+    "yaml": "python-ldap__ldap3__ictu@quality-time__cc47b42c.yaml"
+}

@@ -1,0 +1,26 @@
+{
+    "domain": "Networking",
+    "url": "https://github.com/duanhongyi/dwebsocket/commit/d707ff65",
+    "bef_file": "236b.py",
+    "aft_file": "236a.py",
+    "libo": "gevent",
+    "libn": "eventlet",
+    "apio": [
+        "WSGIServer",
+        "serve_forever",
+        "patch_all"
+    ],
+    "apin": [
+        "server",
+        "listen",
+        "monkey_patch"
+    ],
+    "api_imports": [
+        "eventlet.wsgi",
+        "eventlet.patcher",
+        "eventlet.wsgi",
+        "eventlet.patcher"
+    ],
+    "filepath": "examples/run_eventlet.py",
+    "yaml": "gevent__eventlet__duanhongyi@dwebsocket__d707ff65.yaml"
+}

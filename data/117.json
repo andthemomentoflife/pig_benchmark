@@ -1,0 +1,22 @@
+{
+    "domain": "Utility",
+    "url": "https://github.com/raspberrypilearning/push-button-stop-motion/commit/0b6cdadb",
+    "bef_file": "117b.py",
+    "aft_file": "117a.py",
+    "libo": "RPi.GPIO",
+    "libn": "gpiozero",
+    "apio": [
+        "wait_for_edge",
+        "setmode",
+        "setup"
+    ],
+    "apin": [
+        "wait_for_press",
+        "Button"
+    ],
+    "api_imports": [
+        "gpiozero.Button"
+    ],
+    "filepath": "code/animation.py",
+    "yaml": "rpi.gpio__gpiozero__raspberrypilearning@push-button-stop-motion__0b6cdadb.yaml"
+}

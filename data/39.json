@@ -1,0 +1,28 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/cpfair/tapiriik/commit/495db93a",
+    "bef_file": "39b.py",
+    "aft_file": "39a.py",
+    "libo": "httplib2",
+    "libn": "requests",
+    "apio": [
+        "Http",
+        "request",
+        "status",
+        "decode"
+    ],
+    "apin": [
+        "get",
+        "get",
+        "get",
+        "get",
+        "post",
+        "post",
+        "status_code"
+    ],
+    "api_imports": [
+        "requests"
+    ],
+    "filepath": "tapiriik/services/RunKeeper/runkeeper.py",
+    "yaml": "httplib2__requests__cpfair@tapiriik__495db93a.yaml"
+}

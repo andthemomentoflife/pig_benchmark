@@ -1,0 +1,20 @@
+{
+    "domain": "File reader/writer",
+    "url": "https://github.com/microsoft/nni/commit/b955ac99",
+    "bef_file": "218b.py",
+    "aft_file": "218a.py",
+    "libo": "ruamel.yaml",
+    "libn": "pyyaml",
+    "apio": [
+        "load",
+        "dump"
+    ],
+    "apin": [
+        "safe_load"
+    ],
+    "api_imports": [
+        "yaml"
+    ],
+    "filepath": "nni/tools/nnictl/common_utils.py",
+    "yaml": "ruamel.yaml__pyyaml__microsoft@nni__b955ac99.yaml"
+}

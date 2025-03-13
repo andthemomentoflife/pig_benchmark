@@ -1,0 +1,28 @@
+{
+    "domain": "Deep Learning",
+    "url": "https://github.com/intellabs/nlp-architect/commit/9f067f27",
+    "bef_file": "20b.py",
+    "aft_file": "20a.py",
+    "libo": "pytorch-transformers",
+    "libn": "transformers",
+    "apio": [
+        "BertForTokenClassification",
+        "XLNetPreTrainedModel",
+        "XLNetModel"
+    ],
+    "apin": [
+        "BertForTokenClassification",
+        "XLNetPreTrainedModel"
+    ],
+    "api_imports": [
+        "transformers.ROBERTA_PRETRAINED_MODEL_ARCHIVE_MAP",
+        "transformers.BertForTokenClassification",
+        "transformers.BertPreTrainedModel",
+        "transformers.RobertaConfig",
+        "transformers.RobertaModel",
+        "transformers.XLNetModel",
+        "transformers.XLNetPreTrainedModel"
+    ],
+    "filepath": "nlp_architect/models/transformers/token_classification.py",
+    "yaml": "pytorch-transformers__transformers__intellabs@nlp-architect__9f067f27.yaml"
+}

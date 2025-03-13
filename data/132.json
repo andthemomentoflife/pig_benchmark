@@ -1,0 +1,29 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/etalab/udata/commit/9bc0f731",
+    "bef_file": "132b.py",
+    "aft_file": "132a.py",
+    "libo": "raven",
+    "libn": "sentry-sdk",
+    "apio": [
+        "Sentry",
+        "init_app",
+        "logging",
+        "level",
+        "register_logger_signal",
+        "register_signal"
+    ],
+    "apin": [
+        "init",
+        "FlaskIntegration",
+        "CeleryIntegration",
+        "set_level"
+    ],
+    "api_imports": [
+        "sentry_sdk",
+        "sentry_sdk.integrations.flask.FlaskIntegration",
+        "sentry_sdk.integrations.celery.CeleryIntegration"
+    ],
+    "filepath": "udata/sentry.py",
+    "yaml": "raven__sentry-sdk__etalab@udata__9bc0f731.yaml"
+}

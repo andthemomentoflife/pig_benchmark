@@ -1,0 +1,33 @@
+{
+    "domain": "Deep Learning",
+    "url": "https://github.com/kaushaltrivedi/fast-bert/commit/1c96992f",
+    "bef_file": "282b.py",
+    "aft_file": "282a.py",
+    "libo": "pytorch-pretrained-bert",
+    "libn": "pytorch-transformers",
+    "apio": [
+        "ConstantLR",
+        "WarmupCosineWithWarmupRestartsSchedule",
+        "BertAdam",
+        "WarmupCosineSchedule",
+        "WarmupConstantSchedule",
+        "WarmupLinearSchedule",
+        "WarmupCosineWithHardRestartsSchedule",
+        "from_pretrained",
+        "BertLayerNorm"
+    ],
+    "apin": [
+        "ConstantLRSchedule",
+        "ConstantLRSchedule"
+    ],
+    "api_imports": [
+        "pytorch_transformers.AdamW",
+        "pytorch_transformers.ConstantLRSchedule",
+        "pytorch_transformers.WarmupCosineSchedule",
+        "pytorch_transformers.WarmupConstantSchedule",
+        "pytorch_transformers.WarmupLinearSchedule",
+        "pytorch_transformers.WarmupCosineWithHardRestartsSchedule"
+    ],
+    "filepath": "fast_bert/learner.py",
+    "yaml": "pytorch-pretrained-bert__pytorch-transformers__kaushaltrivedi@fast-bert__1c96992f.yaml"
+}

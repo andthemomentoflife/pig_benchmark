@@ -1,0 +1,24 @@
+{
+    "domain": "Utility",
+    "url": "https://github.com/synacktiv/eos/commit/ac9596f9",
+    "bef_file": "205b.py",
+    "aft_file": "205a.py",
+    "libo": "lxml",
+    "libn": "defusedxml",
+    "apio": [
+        "parse",
+        "getroot",
+        "findall",
+        "get"
+    ],
+    "apin": [
+        "parse",
+        "getElementsByTagName",
+        "getElementsByTagName"
+    ],
+    "api_imports": [
+        "defusedxml.minidom"
+    ],
+    "filepath": "eos/plugins/sources.py",
+    "yaml": "lxml__defusedxml__synacktiv@eos__ac9596f9.yaml"
+}

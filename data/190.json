@@ -1,0 +1,31 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/sporteasy/python-poeditor/commit/57108590",
+    "bef_file": "190b.py",
+    "aft_file": "190a.py",
+    "libo": "restkit",
+    "libn": "requests",
+    "apio": [
+        "request",
+        "Resource",
+        "post",
+        "status_int",
+        "status",
+        "body_string",
+        "body_stream",
+        "read"
+    ],
+    "apin": [
+        "get",
+        "post",
+        "status_code",
+        "status_code",
+        "reason",
+        "text"
+    ],
+    "api_imports": [
+        "requests"
+    ],
+    "filepath": "poeditor/client.py",
+    "yaml": "restkit__requests__sporteasy@python-poeditor__57108590.yaml"
+}

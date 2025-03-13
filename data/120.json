@@ -1,0 +1,23 @@
+{
+    "domain": "Auth",
+    "url": "https://github.com/discogs/discogs_client/commit/c56f61aa",
+    "bef_file": "120b.py",
+    "aft_file": "120a.py",
+    "libo": "oauth2",
+    "libn": "oauthlib",
+    "apio": [
+        "Consumer",
+        "Token",
+        "Client",
+        "set_verifier"
+    ],
+    "apin": [
+        "Client",
+        "verifier"
+    ],
+    "api_imports": [
+        "oauthlib.oauth1"
+    ],
+    "filepath": "discogs_client/fetchers.py",
+    "yaml": "oauth2__oauthlib__discogs@discogs_client__c56f61aa.yaml"
+}

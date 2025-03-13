@@ -1,0 +1,40 @@
+{
+    "domain": "Crypto",
+    "url": "https://github.com/openstack/glance/commit/5ebde907",
+    "bef_file": "8b.py",
+    "aft_file": "8a.py",
+    "libo": "pycryptodome",
+    "libn": "cryptography",
+    "apio": [
+        "StrongRandom",
+        "randint",
+        "get_random_bytes",
+        "new",
+        "encrypt",
+        "decrypt"
+    ],
+    "apin": [
+        "Cipher",
+        "AES",
+        "CBC",
+        "default_backend",
+        "Cipher",
+        "AES",
+        "CBC",
+        "default_backend",
+        "encryptor",
+        "update",
+        "finalize",
+        "decryptor",
+        "update",
+        "finalize"
+    ],
+    "api_imports": [
+        "cryptography.hazmat.backends.default_backend",
+        "cryptography.hazmat.primitives.ciphers.algorithms",
+        "cryptography.hazmat.primitives.ciphers.Cipher",
+        "cryptography.hazmat.primitives.ciphers.modes"
+    ],
+    "filepath": "glance/common/crypt.py",
+    "yaml": "pycryptodome__cryptography__openstack@glance__5ebde907.yaml"
+}

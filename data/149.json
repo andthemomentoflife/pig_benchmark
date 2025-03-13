@@ -1,0 +1,23 @@
+{
+    "domain": "Filesystem&Scientific",
+    "url": "https://github.com/glue-viz/glue/commit/5b2d7f92",
+    "bef_file": "149b.py",
+    "aft_file": "149a.py",
+    "libo": "pyfits",
+    "libn": "astropy",
+    "apio": [
+        "open",
+        "PrimaryHDU",
+        "ImageHDU"
+    ],
+    "apin": [
+        "open",
+        "PrimaryHDU",
+        "ImageHDU"
+    ],
+    "api_imports": [
+        "fits"
+    ],
+    "filepath": "glue/core/io.py",
+    "yaml": "pyfits__astropy__glue-viz@glue__5b2d7f92.yaml"
+}

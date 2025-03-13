@@ -1,0 +1,26 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/keselekpermen69/userbutt/commit/a2dd44e1",
+    "bef_file": "177b.py",
+    "aft_file": "177a.py",
+    "libo": "requests",
+    "libn": "aiohttp",
+    "apio": [
+        "get",
+        "status_code",
+        "reason",
+        "json"
+    ],
+    "apin": [
+        "ClientSession",
+        "get",
+        "status",
+        "reason",
+        "json"
+    ],
+    "api_imports": [
+        "aiohttp"
+    ],
+    "filepath": "userbot/modules/heroku.py",
+    "yaml": "requests__aiohttp__keselekpermen69@userbutt__a2dd44e1.yaml"
+}

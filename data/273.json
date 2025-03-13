@@ -1,0 +1,33 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/hbldh/pybankid/commit/79e424ce",
+    "bef_file": "273b.py",
+    "aft_file": "273a.py",
+    "libo": "suds",
+    "libn": "zeep",
+    "apio": [
+        "Collect",
+        "Client",
+        "WebFault",
+        "HttpAuthenticated",
+        "Reply",
+        "Text",
+        "addcredentials",
+        "unescape",
+        "decode"
+    ],
+    "apin": [
+        "Collect",
+        "Client",
+        "Error",
+        "Error",
+        "Error"
+    ],
+    "api_imports": [
+        "zeep.Client",
+        "zeep.transports.Transport",
+        "zeep.exceptions.Error"
+    ],
+    "filepath": "bankid/client.py",
+    "yaml": "suds__zeep__hbldh@pybankid__79e424ce.yaml"
+}

@@ -1,0 +1,27 @@
+{
+    "domain": "Utility",
+    "url": "https://github.com/tankerhq/tbump/commit/54b12e29",
+    "bef_file": "13b.py",
+    "aft_file": "13a.py",
+    "libo": "argparse",
+    "libn": "docopt",
+    "apio": [
+        "ArgumentParser",
+        "add_argument",
+        "parse_args",
+        "set_defaults",
+        "Namespace",
+        "new_version",
+        "working_path",
+        "dry_run",
+        "interactive"
+    ],
+    "apin": [
+        "docopt"
+    ],
+    "api_imports": [
+        "docopt"
+    ],
+    "filepath": "tbump/main.py",
+    "yaml": "argparse__docopt__tankerhq@tbump__54b12e29.yaml"
+}

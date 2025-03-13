@@ -1,0 +1,23 @@
+{
+    "domain": "Utility",
+    "url": "https://github.com/augerai/a2ml/commit/13ea499e",
+    "bef_file": "251b.py",
+    "aft_file": "251a.py",
+    "libo": "asyncio-redis",
+    "libn": "aioredis",
+    "apio": [
+        "create",
+        "start_subscribe",
+        "subscribe",
+        "next_published",
+        "close"
+    ],
+    "apin": [
+        "create_redis"
+    ],
+    "api_imports": [
+        "aioredis"
+    ],
+    "filepath": "a2ml/server/notification.py",
+    "yaml": "asyncio-redis__aioredis__augerai@a2ml__13ea499e.yaml"
+}

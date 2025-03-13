@@ -1,0 +1,29 @@
+{
+    "domain": "Utility",
+    "url": "https://github.com/titusz/onixcheck/commit/f17d1861",
+    "bef_file": "5b.py",
+    "aft_file": "5a.py",
+    "libo": "click",
+    "libn": "argparse",
+    "apio": [
+        "command",
+        "argument",
+        "option",
+        "version_option",
+        "echo"
+    ],
+    "apin": [
+        "add_argument",
+        "add_argument",
+        "add_argument",
+        "add_argument",
+        "add_argument",
+        "ArgumentParser"
+    ],
+    "api_imports": [
+        "argparse.ArgumentParser",
+        "argparse.FileType"
+    ],
+    "filepath": "src/onixcheck/__main__.py",
+    "yaml": "click__argparse__titusz@onixcheck__f17d1861.yaml"
+}

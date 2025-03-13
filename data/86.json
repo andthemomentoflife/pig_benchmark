@@ -1,0 +1,25 @@
+{
+    "domain": "HTTP Clients&HTML",
+    "url": "https://github.com/idan/telostats/commit/f73354ab",
+    "bef_file": "86b.py",
+    "aft_file": "86a.py",
+    "libo": "pyquery",
+    "libn": "beautifulsoup4",
+    "apio": [
+        "PyQuery",
+        ".bicycle_station",
+        "div",
+        "attrib",
+        "text_content"
+    ],
+    "apin": [
+        "find_all",
+        "find_all",
+        "get_text"
+    ],
+    "api_imports": [
+        "bs4.BeautifulSoup"
+    ],
+    "filepath": "telostats/stations/tasks.py",
+    "yaml": "pyquery__beautifulsoup4__idan@telostats__f73354ab.yaml"
+}

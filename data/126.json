@@ -1,0 +1,31 @@
+{
+    "domain": "API wrapper",
+    "url": "https://github.com/openstack/oslo.messaging/commit/5a842ae1",
+    "bef_file": "126b.py",
+    "aft_file": "126a.py",
+    "libo": "kafka-python",
+    "libn": "confluent-kafka",
+    "apio": [
+        "KafkaConsumer",
+        "KafkaProducer",
+        "poll",
+        "commit",
+        "close",
+        "send",
+        "KafkaError",
+        "ConsumerNoMoreData",
+        "SelectSelector",
+        "DefaultSelector"
+    ],
+    "apin": [
+        "Consumer",
+        "subscribe",
+        "Producer"
+    ],
+    "api_imports": [
+        "confluent_kafka",
+        "confluent_kafka.KafkaException"
+    ],
+    "filepath": "oslo_messaging/_drivers/impl_kafka.py",
+    "yaml": "kafka-python__confluent-kafka__openstack@oslo.messaging__5a842ae1.yaml"
+}

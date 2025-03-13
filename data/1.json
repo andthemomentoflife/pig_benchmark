@@ -1,0 +1,22 @@
+{
+    "domain": "Filesystem",
+    "url": "https://github.com/studentenportal/web/commit/4842cff0",
+    "bef_file": "1b.py",
+    "aft_file": "1a.py",
+    "libo": "unipath",
+    "libn": "pathlib",
+    "apio": [
+        "Path",
+        "ancestor",
+        "child"
+    ],
+    "apin": [
+        "Path",
+        "parents"
+    ],
+    "api_imports": [
+        "pathlib.Path"
+    ],
+    "filepath": "config/settings.py",
+    "yaml": "unipath__pathlib__studentenportal@web__4842cff0.yaml"
+}

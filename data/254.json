@@ -1,0 +1,47 @@
+{
+    "domain": "Utility",
+    "url": "https://github.com/skoczen/will/commit/437f8be3",
+    "bef_file": "254b.py",
+    "aft_file": "254a.py",
+    "libo": "fabric3",
+    "libn": "invoke",
+    "apio": [
+        "local",
+        "lcd",
+        "settings"
+    ],
+    "apin": [
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "run",
+        "cd",
+        "cd",
+        "cd",
+        "run",
+        "task",
+        "task",
+        "task"
+    ],
+    "api_imports": [
+        "invoke.task"
+    ],
+    "filepath": "fabfile.py",
+    "yaml": "fabric3__invoke__skoczen@will__437f8be3.yaml"
+}

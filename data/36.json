@@ -1,0 +1,26 @@
+{
+    "domain": "Utility",
+    "url": "https://github.com/c00w/bithopper/commit/66125263",
+    "bef_file": "36b.py",
+    "aft_file": "36a.py",
+    "libo": "eventlet",
+    "libn": "gevent",
+    "apio": [
+        "spawn_n",
+        "sleep",
+        "monkey_patch",
+        "setdefaulttimeout",
+        "time"
+    ],
+    "apin": [
+        "spawn",
+        "sleep",
+        "patch_all"
+    ],
+    "api_imports": [
+        "gevent",
+        "gevent.monkey"
+    ],
+    "filepath": "speed.py",
+    "yaml": "eventlet__gevent__c00w@bithopper__66125263.yaml"
+}

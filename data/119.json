@@ -1,0 +1,21 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/whoopinc/mkwheelhouse/commit/54806ffc",
+    "bef_file": "119b.py",
+    "aft_file": "119a.py",
+    "libo": "botocore",
+    "libn": "boto",
+    "apio": [
+        "get_service",
+        "get_session",
+        "get_endpoint",
+        "get_operation"
+    ],
+    "apin": [],
+    "api_imports": [
+        "boto",
+        "boto.s3.connection"
+    ],
+    "filepath": "mkwheelhouse.py",
+    "yaml": "botocore__boto__whoopinc@mkwheelhouse__54806ffc.yaml"
+}

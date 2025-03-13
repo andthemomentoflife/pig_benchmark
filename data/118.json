@@ -1,0 +1,22 @@
+{
+    "domain": "Utility",
+    "url": "https://github.com/jhsmit/colicoords/commit/a082ad56",
+    "bef_file": "118b.py",
+    "aft_file": "118a.py",
+    "libo": "multiprocessing",
+    "libn": "multiprocess",
+    "apio": [
+        "Pool",
+        "imap",
+        "close",
+        "join"
+    ],
+    "apin": [
+        "Pool"
+    ],
+    "api_imports": [
+        "multiprocess"
+    ],
+    "filepath": "colicoords/cell.py",
+    "yaml": "multiprocessing__multiprocess__jhsmit@colicoords__a082ad56.yaml"
+}

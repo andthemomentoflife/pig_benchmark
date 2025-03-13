@@ -1,0 +1,32 @@
+{
+    "domain": "Utilities",
+    "url": "https://github.com/thombashi/pingparsing/commit/45fac3cb",
+    "bef_file": "110b.py",
+    "aft_file": "110a.py",
+    "libo": "dataproperty",
+    "libn": "typepy",
+    "apio": [
+        "is_empty_string",
+        "IntegerType",
+        "try_convert",
+        "is_not_empty_string"
+    ],
+    "apin": [
+        "is_null_string",
+        "Integer",
+        "Integer",
+        "Integer",
+        "Integer",
+        "convert",
+        "convert",
+        "convert",
+        "convert",
+        "is_not_null_string"
+    ],
+    "api_imports": [
+        "typepy",
+        "typepy.type.Integer"
+    ],
+    "filepath": "pingparsing/_pingtransmitter.py",
+    "yaml": "dataproperty__typepy__thombashi@pingparsing__45fac3cb.yaml"
+}

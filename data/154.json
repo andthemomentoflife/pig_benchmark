@@ -1,0 +1,23 @@
+{
+    "domain": "Filesystem",
+    "url": "https://github.com/ckan/ckanext-datapackager/commit/a6a3fb3a",
+    "bef_file": "154b.py",
+    "aft_file": "154a.py",
+    "libo": "csv",
+    "libn": "unicodecsv",
+    "apio": [
+        "Sniffer",
+        "reader",
+        "Error"
+    ],
+    "apin": [
+        "Sniffer",
+        "reader",
+        "Error"
+    ],
+    "api_imports": [
+        "unicodecsv"
+    ],
+    "filepath": "ckanext/datapackager/lib/helpers.py",
+    "yaml": "csv__unicodecsv__ckan@ckanext-datapackager__a6a3fb3a.yaml"
+}

@@ -1,0 +1,24 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/canonical/cloud-init/commit/0fc887d9",
+    "bef_file": "303b.py",
+    "aft_file": "303a.py",
+    "libo": "urllib3",
+    "libn": "requests",
+    "apio": [
+        "HTTPError",
+        "parse_url",
+        "scheme",
+        "connection_from_url",
+        "request_uri"
+    ],
+    "apin": [
+        "RequestException"
+    ],
+    "api_imports": [
+        "requests",
+        "requests.exceptions"
+    ],
+    "filepath": "cloudinit/url_helper.py",
+    "yaml": "urllib3__requests__canonical@cloud-init__0fc887d9.yaml"
+}

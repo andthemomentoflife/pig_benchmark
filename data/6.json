@@ -1,0 +1,32 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/aws/aws-parallelcluster/commit/d49460ac",
+    "bef_file": "6b.py",
+    "aft_file": "6a.py",
+    "libo": "paramiko",
+    "libn": "fabric",
+    "apio": [
+        "SSHClient",
+        "load_system_host_keys",
+        "set_missing_host_key_policy",
+        "connect",
+        "open_sftp",
+        "close",
+        "exec_command",
+        "recv_exit_status",
+        "put"
+    ],
+    "apin": [
+        "put",
+        "put",
+        "Connection",
+        "close",
+        "run",
+        "failed"
+    ],
+    "api_imports": [
+        "fabric.Connection"
+    ],
+    "filepath": "tests/integration-tests/remote_command_executor.py",
+    "yaml": "paramiko__fabric__aws@aws-parallelcluster__d49460ac.yaml"
+}

@@ -1,0 +1,22 @@
+{
+    "domain": "Documentation",
+    "url": "https://github.com/hustlzp/permission/commit/d174a217",
+    "bef_file": "175b.py",
+    "aft_file": "175a.py",
+    "libo": "pyandoc",
+    "libn": "pypandoc",
+    "apio": [
+        "PANDOC_PATH",
+        "Document",
+        "markdown",
+        "rst"
+    ],
+    "apin": [
+        "convert"
+    ],
+    "api_imports": [
+        "pypandoc"
+    ],
+    "filepath": "makedoc.py",
+    "yaml": "pyandoc__pypandoc__hustlzp@permission__d174a217.yaml"
+}

@@ -1,0 +1,27 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/openstack/solar/commit/8766f11d",
+    "bef_file": "265b.py",
+    "aft_file": "265a.py",
+    "libo": "node-semver",
+    "libn": "semantic-version",
+    "apio": [
+        "parse",
+        "compare",
+        "match"
+    ],
+    "apin": [
+        "validate",
+        "validate",
+        "validate",
+        "compare",
+        "compare",
+        "match",
+        "match"
+    ],
+    "api_imports": [
+        "semantic_version"
+    ],
+    "filepath": "solar/core/resource/repository.py",
+    "yaml": "node-semver__semantic-version__openstack@solar__8766f11d.yaml"
+}

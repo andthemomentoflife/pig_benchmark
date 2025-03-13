@@ -1,0 +1,20 @@
+{
+    "domain": "Crypto",
+    "url": "https://github.com/twiliodeved/sms2fa-flask/commit/22eedfcd",
+    "bef_file": "197b.py",
+    "aft_file": "197a.py",
+    "libo": "bcrypt",
+    "libn": "passlib",
+    "apio": [
+        "gensalt",
+        "hashpw"
+    ],
+    "apin": [
+        "encrypt"
+    ],
+    "api_imports": [
+        "passlib.hash.bcrypt"
+    ],
+    "filepath": "sms2fa_flask/models.py",
+    "yaml": "bcrypt__passlib__twiliodeved@sms2fa-flask__22eedfcd.yaml"
+}

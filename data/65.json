@@ -1,0 +1,32 @@
+{
+    "domain": "Utility",
+    "url": "https://github.com/rackerlabs/mimic/commit/5bb49466",
+    "bef_file": "65b.py",
+    "aft_file": "65a.py",
+    "libo": "characteristic",
+    "libn": "attrs",
+    "apio": [
+        "attributes",
+        "Attribute"
+    ],
+    "apin": [
+        "s",
+        "s",
+        "ib",
+        "Factory",
+        "ib",
+        "Factory",
+        "ib",
+        "instance_of",
+        "ib",
+        "ib",
+        "ib",
+        "ib",
+        "ib"
+    ],
+    "api_imports": [
+        "attr"
+    ],
+    "filepath": "mimic/session.py",
+    "yaml": "characteristic__attrs__rackerlabs@mimic__5bb49466.yaml"
+}

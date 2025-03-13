@@ -1,0 +1,26 @@
+{
+    "domain": "Web Framework",
+    "url": "https://github.com/c4rlo/vimhelp/commit/7a5fadfd",
+    "bef_file": "153b.py",
+    "aft_file": "153a.py",
+    "libo": "webapp2",
+    "libn": "flask",
+    "apio": [
+        "RequestHandler",
+        "body",
+        "query_string",
+        "WSGIApplication"
+    ],
+    "apin": [
+        "MethodView",
+        "data",
+        "query_string",
+        "query_string"
+    ],
+    "api_imports": [
+        "flask",
+        "flask.views"
+    ],
+    "filepath": "update.py",
+    "yaml": "webapp2__flask__c4rlo@vimhelp__7a5fadfd.yaml"
+}

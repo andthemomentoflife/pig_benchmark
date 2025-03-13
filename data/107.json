@@ -1,0 +1,21 @@
+{
+    "domain": "HTTP Clients",
+    "url": "https://github.com/redhat-cip/hardware/commit/a429c38c",
+    "bef_file": "107b.py",
+    "aft_file": "107a.py",
+    "libo": "ipaddr",
+    "libn": "ipaddress",
+    "apio": [
+        "IPv4Address",
+        "IPv4Network"
+    ],
+    "apin": [
+        "IPv4Address",
+        "IPv4Network"
+    ],
+    "api_imports": [
+        "ipaddress"
+    ],
+    "filepath": "hardware/matcher.py",
+    "yaml": "ipaddr__ipaddress__redhat-cip@hardware__a429c38c.yaml"
+}

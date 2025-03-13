@@ -1,0 +1,27 @@
+{
+    "domain": "API wrapper",
+    "url": "https://github.com/zulip/python-zulip-api/commit/2d9cf64d",
+    "bef_file": "203b.py",
+    "aft_file": "203a.py",
+    "libo": "slackclient",
+    "libn": "slack-sdk",
+    "apio": [
+        "RTMClient",
+        "WebClient",
+        "run_on",
+        "chat_postMessage",
+        "users_list",
+        "start"
+    ],
+    "apin": [
+        "RTMClient",
+        "WebClient",
+        "run_on"
+    ],
+    "api_imports": [
+        "slack_sdk",
+        "slack_sdk.rtm.RTMClient"
+    ],
+    "filepath": "zulip/integrations/bridge_with_slack/run-slack-bridge",
+    "yaml": "slackclient__slack-sdk__zulip@python-zulip-api__2d9cf64d.yaml"
+}

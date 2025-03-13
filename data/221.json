@@ -1,0 +1,28 @@
+{
+    "domain": "Utilities",
+    "url": "https://github.com/rocketmap/rocketmap/commit/2960ec68",
+    "bef_file": "221b.py",
+    "aft_file": "221a.py",
+    "libo": "argparse",
+    "libn": "configargparse",
+    "apio": [
+        "ArgumentParser",
+        "add_argument",
+        "parse_args"
+    ],
+    "apin": [
+        "ArgParser",
+        "add_argument",
+        "add_argument",
+        "add_argument",
+        "add_argument",
+        "add_argument",
+        "add_argument",
+        "add_argument"
+    ],
+    "api_imports": [
+        "configargparse"
+    ],
+    "filepath": "pogom/utils.py",
+    "yaml": "argparse__configargparse__rocketmap@rocketmap__2960ec68.yaml"
+}
