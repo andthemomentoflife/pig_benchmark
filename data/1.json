@@ -12,7 +12,7 @@
     ],
     "apin": [
         "Path",
-        "parents"
+        "parents-parent"
     ],
     "api_imports": [
         "pathlib.Path"
