@@ -15,6 +15,6 @@
     "api_imports": [
         "yaml"
     ],
-    "filepath": "nni/tools/nnictl/common_utils.py",
+    "filepath": "test/nni_test/nnitest/utils.py",
     "yaml": "ruamel.yaml__pyyaml__microsoft@nni__b955ac99.yaml"
 }
